@@ -1,4 +1,4 @@
-package ru.job4j.condition;
+package ru.tracker.condition;
 import condition.Triangle;
 import org.junit.Test;
 import static org.hamcrest.core.Is.is;
